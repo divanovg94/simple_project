@@ -1,0 +1,28 @@
+#box {
+    height: 330px;
+    width: 330px;
+    margin:auto;
+    margin-top:10em;
+}
+.small_boxes {
+    background-color: green;
+    height: 1em;
+    width: 1em;
+    margin: 2px;
+    display: inline-block;
+}
+#header_div {
+
+margin:auto;
+margin-top:2em;
+	width:10em;
+	height:2em;
+
+}
+
+div.small_boxes:hover{
+    background-color:blue;    
+    color:white;
+
+}
+
